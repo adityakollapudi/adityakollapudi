@@ -1,264 +1,383 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:312e81,60:7c3aed,85:2563eb,100:06b6d4&height=220&section=header&text=Aditya%20Kollapudi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Full-Stack%20Architect&descFontSize=19&descAlignY=58" alt="Aditya Kollapudi Banner"/>
-
-<!-- Typing SVG Subheading -->
-<a href="https://github.com/adityakollapudi">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer+%26+Deep+Learning+Enthusiast;Computer+Vision+%7C+Medical+Diagnostics+%7C+GenAI;Full-Stack+Architect+%7C+React+%26+Node.js;Building+Intelligent+Systems+for+Real-World+Impact;Turning+Complex+Algorithms+into+Scalable+Code" alt="Animated Subtitle"/>
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;Deep+Learning+Researcher;Computer+Vision+%7C+Medical+Diagnostics;Full-Stack+Developer+%7C+React+%26+Node.js;LLMs+%7C+Generative+AI+%7C+AI+Safety;Building+Intelligent+Real-World+Systems">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;Deep+Learning+Researcher;Computer+Vision+%7C+Medical+Diagnostics;Full-Stack+Developer+%7C+React+%26+Node.js;LLMs+%7C+Generative+AI+%7C+AI+Safety;Building+Intelligent+Real-World+Systems" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Profile Avatar -->
-<a href="https://github.com/adityakollapudi">
-  <img src="assets/aditya-avatar.png" width="220" alt="Aditya Kollapudi Profile Portrait"/>
-</a>
-
-<br/><br/>
-
-<!-- Metric Badges Row -->
-<a href="https://github.com/adityakollapudi">
-  <img src="https://komarev.com/ghpvc/?username=adityakollapudi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/adityakollapudi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-18+-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Repositories"/>
-</a>
-<a href="https://github.com/adityakollapudi?tab=followers">
-  <img src="https://img.shields.io/github/followers/adityakollapudi?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="Followers"/>
-</a>
-<a href="https://www.linkedin.com/in/adityakollapudi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:adityakollapudi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-> *"Transforming raw data and deep neural networks into resilient, production-ready applications that solve real-world problems."*
-
-I am a Computer Science student and software engineer deeply immersed in **Artificial Intelligence, Deep Learning, and Full-Stack Engineering**. My core passion lies in engineering end-to-end intelligent systems — from training high-accuracy vision and classification models to architecting intuitive, modern web interfaces and scalable backend APIs.
-
-- 🤖 **Artificial Intelligence & Deep Learning:** Architecting and fine-tuning CNNs, vision models, transfer learning pipelines, and generative AI systems.
-- 🩻 **Medical Diagnostics & Health AI:** Designing automated image classification and triage systems for CT scans, MRI scans, and chest radiographs.
-- 💻 **Full-Stack Development:** Crafting high-performance web applications using the MERN stack (React, Node.js, Express, MongoDB) and RESTful API architectures.
-- 🛡️ **AI Safety & Threat Modeling:** Exploring prompt injection defenses and adversarial testing via LLM jailbreak threat matrices.
-- 🧠 **Algorithmic Mastery:** Continuously refining problem-solving intuition, data structures, and algorithms.
-- 🚀 **Core Workflow:** `Learn deeply` ➔ `Build rigorously` ➔ `Validate thoroughly` ➔ `Iterate constantly`.
-
----
-
-## 🛠️ Tech Arsenal & Capabilities
-
-<div align="center">
-
-### 💻 Languages & Fundamentals
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" alt="Programming languages"/>
-
-<br/>
-
-### 🧠 Artificial Intelligence, Deep Learning & Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" alt="AI & ML Frameworks"/>
-
-<br/>
-
-### 🌐 Full-Stack, Backend & Databases
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,tailwind&theme=dark" alt="Web & Database Tech"/>
-
-<br/>
-
-### ⚙️ Developer Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" alt="Dev Tools & Platforms"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/adityakollapudi/Ai_Agent_Health">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakollapudi&repo=Ai_Agent_Health&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&border_radius=12" alt="Vitalis AI Health Assistant"/>
-</a>
-<a href="https://github.com/adityakollapudi/Covid19-CT-Scan--Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakollapudi&repo=Covid19-CT-Scan--Detection&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&border_radius=12" alt="COVID-19 CT Scan Detection"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/adityakollapudi/civic-issue-detector">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakollapudi&repo=civic-issue-detector&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&border_radius=12" alt="Civic Issue Detector"/>
-</a>
-<a href="https://github.com/adityakollapudi/brain-_tumor_detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakollapudi&repo=brain-_tumor_detection&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&border_radius=12" alt="Brain Tumor Detection"/>
-</a>
-
-</div>
-
-<br/>
-
-<table>
-  <thead>
-    <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description</th>
-      <th width="20%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/Ai_Agent_Health">🩺 Vitalis AI — Health Assistant</a></b>
-      </td>
-      <td>
-        Intelligent medical assistant analyzing user symptoms, predicting possible health conditions, and offering actionable triage guidance.
-      </td>
-      <td>
-        <code>Python</code> <code>PyTorch</code> <code>Healthcare AI</code> <code>NLP</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/Covid19-CT-Scan--Detection">🫁 COVID-19 CT Scan Detection</a></b>
-      </td>
-      <td>
-        Deep-learning computer vision framework to classify COVID-19, viral pneumonia, and healthy CT scans with high diagnostic reliability.
-      </td>
-      <td>
-        <code>PyTorch</code> <code>Computer Vision</code> <code>CNN</code> <code>Medical Imaging</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/brain-_tumor_detection">🧠 Brain Tumor Detection</a></b>
-      </td>
-      <td>
-        Automated MRI scan neural classification pipeline for early and accurate neuro-oncology diagnosis and lesion analysis.
-      </td>
-      <td>
-        <code>Deep Learning</code> <code>MRI Scans</code> <code>OpenCV</code> <code>CNN</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/civic-issue-detector">🏙️ Civic Issue Detector</a></b>
-      </td>
-      <td>
-        AI-assisted municipal reporting platform featuring automated computer vision detection, GPS geolocation mapping, and resolution tracking.
-      </td>
-      <td>
-        <code>YOLO</code> <code>React</code> <code>Node.js</code> <code>Maps API</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/llm-jailbreak-threat-matrix">🛡️ LLM Jailbreak Threat Matrix</a></b>
-      </td>
-      <td>
-        Adversarial AI security framework analyzing prompt injection vulnerabilities, alignment risks, and safety guardrails across frontier models.
-      </td>
-      <td>
-        <code>LLM Security</code> <code>Red Teaming</code> <code>Safety Guardrails</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityakollapudi/Task_manager">⚡ MERN Task Management System</a></b>
-      </td>
-      <td>
-        Full-stack task management platform featuring role-based access control (Admin & Employee portals), real-time updates, and JWT security.
-      </td>
-      <td>
-        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/adityakollapudi?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL%2018+%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics & Telemetry
-
-<div align="center">
-
-<a href="https://github.com/adityakollapudi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakollapudi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&bg_color=0D1117&border_radius=12" alt="Aditya's GitHub Stats"/>
-</a>
-<a href="https://github.com/adityakollapudi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakollapudi&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117&border_radius=12" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/adityakollapudi">
-  <img width="85%" src="https://streak-stats.demolab.com?user=adityakollapudi&hide_border=true&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&border_radius=12" alt="Contribution Streak"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Graph Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/main/portrait_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/main/portrait_light.svg">
+  <img alt="Aditya Kollapudi" src="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/main/portrait_dark.svg">
+</picture>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=adityakollapudi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=adityakollapudi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=adityakollapudi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
 </picture>
 
-<br/>
-<sub><i>Automated daily via GitHub Actions & Platane Snake</i></sub>
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=adityakollapudi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=adityakollapudi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=adityakollapudi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakollapudi&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakollapudi&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakollapudi&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500"
+    alt="Top Languages"
+  />
+</picture>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/adityakollapudi/adityakollapudi/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/adityakollapudi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:adityakollapudi@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/adityakollapudi">
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://komarev.com/ghpvc/?username=adityakollapudi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=adityakollapudi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+</div>
 
 </div>
 
 ---
 
-## 🎯 Current Learning & Growth Track
+## About
 
-| Area | Focus Topics | Target Milestone |
-|:---|:---|:---|
-| **🧠 Deep Learning & Vision** | CNN architectures, transfer learning, diffusion models | End-to-end medical vision deployment |
-| **🤖 Generative AI & Agents** | Multi-agent workflows, RAG systems, model evaluation | Production-ready AI agent architectures |
-| **🌐 Full-Stack Architecture** | Microservices, RESTful design, caching & performance | Scalable cloud-native web platforms |
-| **💡 Data Structures & Algorithms** | Graph theory, dynamic programming, system optimization | Clean, highly optimal algorithmic problem-solving |
+I am a **Computer Science Engineer, AI / ML Developer, and Full-Stack Builder** focused on engineering reliable, intelligent systems and production-grade applications.
+
+My engineering approach bridges **deep neural networks, computer vision, data engineering, full-stack web development, and AI security** to build solutions that solve complex real-world problems.
+
+I work primarily with **Python, Java, C/C++, and JavaScript**, with a deep focus on **PyTorch, TensorFlow, Computer Vision (medical imaging, YOLO), LLMs, AI agents, and MERN full-stack architectures**.
+
+I approach AI engineering from an end-to-end systems perspective — not merely training models in isolation, but building platforms that are **accurate, scalable, observable, secure, and production-ready**.
+
+### Engineering Focus
+
+* Artificial Intelligence & Machine Learning
+* Deep Learning & Convolutional Neural Networks (CNN)
+* Computer Vision & Medical Image Classification (CT / MRI / X-Ray)
+* Large Language Models & Generative AI Applications
+* AI Safety & Adversarial Threat Matrices (Red Teaming)
+* Full-Stack Web Development (MERN Stack: React, Node.js, Express, MongoDB)
+* RESTful API Design & Database Architectures (SQL & NoSQL)
+* Data Structures, Algorithms & Algorithmic Optimization
+* AI-assisted developer tooling & intelligent automation
+
+### Open To
+
+**AI / ML Engineering · Deep Learning Roles · Full-Stack Software Engineering · Computer Vision Research · Open Source Collaboration**
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css" />
+</p>
+
+### AI, Deep Learning & Vision
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+### AI / Engineering Ecosystem
+
+<p>
+<img src="https://img.shields.io/badge/AI-Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep-Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer-Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Medical-Diagnostics-6366F1?style=for-the-badge&logo=health&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-Safety-5B21B6?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN-FullStack-4338CA?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-APIs-312E81?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| --- | :---: | --- |
+| Computer Vision | Advanced | Medical imaging classification, object detection (YOLO), feature extraction |
+| Deep Learning | Advanced | CNN architectures, transfer learning, ensemble modeling, model optimization |
+| Medical Diagnostics AI | Advanced | Automated triage & detection across CT scans, MRI brain scans, and chest radiographs |
+| Generative AI & LLMs | Advanced | Prompt engineering, LLM applications, RAG concepts, intelligent health assistants |
+| AI Safety & Threat Matrix | Advanced | Adversarial prompt testing, jailbreak evaluation, and AI guardrails |
+| Full-Stack AI Integration | Advanced | Building React & Node.js web applications powered by AI microservices |
+| Python for AI | Advanced | Model training, PyTorch, NumPy, Pandas, OpenCV, and automation pipelines |
+| Data Structures & Algorithms | Proficient | Problem-solving, algorithm analysis, clean code, and engineering rigor |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>01 🩺 Vitalis AI — Health Assistant</strong></summary>
+
+<br/>
+
+An AI-based healthcare assistant designed to analyze user symptoms, predict possible health conditions, and provide actionable medical triage guidance.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | Python · PyTorch · Healthcare AI · NLP |
+| **Scale** | Deep learning triage & medical prediction system |
+| **Performance** | Multi-class symptom analysis with real-time inference |
+| **Security** | Privacy-conscious user input and diagnostic evaluation |
+| **Impact** | Automates first-layer symptom triage and health guidance |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/Ai_Agent_Health) |
+
+### Engineering Perspective
+
+The project investigates how intelligent multi-condition classification can be applied to patient-facing triage. It demonstrates the convergence of **deep learning, natural language symptom understanding, healthcare risk assessment, and production-oriented software design**.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>02 🫁 COVID-19 CT Scan Detection</strong></summary>
+
+<br/>
+
+A deep-learning computer vision framework designed to classify volumetric CT scan slices into COVID-19, viral pneumonia, and normal cases.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | PyTorch · Computer Vision · CNN · Medical Imaging |
+| **Scale** | Volumetric medical imaging classification pipeline |
+| **Performance** | High diagnostic accuracy across subtle pulmonary opacities |
+| **Security** | Anonymized medical image tensor pipelines |
+| **Impact** | Assists radiological workflows with automated verification |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/Covid19-CT-Scan--Detection) |
+
+### Engineering Perspective
+
+The project explores **transfer learning and custom convolutional neural network backbones** for pulmonary lesion detection, focusing on gradient backpropagation stability, data augmentation against overfitting, and high sensitivity for critical diagnostic triage.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>03 🧠 Brain Tumor Detection</strong></summary>
+
+<br/>
+
+An automated MRI scan neural network classification pipeline for early and reliable neuro-oncology diagnosis and lesion identification.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | Deep Learning · MRI Scans · OpenCV · PyTorch |
+| **Scale** | Multi-class brain lesion classification model |
+| **Performance** | Optimized feature extraction across multiple MRI planes |
+| **Security** | Non-invasive clinical data processing considerations |
+| **Impact** | Reduces diagnostic turnaround time for MRI examinations |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/brain-_tumor_detection) |
+
+### Engineering Perspective
+
+The project leverages **computer vision preprocessing (contrast adjustment, skull stripping, histogram equalization) combined with deep neural feature extraction** to differentiate between tumor classes and healthy cerebral tissue with minimal false-negative risk.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>04 🏙️ Civic Issue Detector</strong></summary>
+
+<br/>
+
+An AI-powered municipal reporting and surveillance platform featuring image-based issue detection, GPS geolocation tagging, and automated issue resolution tracking.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | YOLO · React · Node.js · Express · Maps API |
+| **Scale** | End-to-end civic monitoring and dispatch system |
+| **Performance** | Fast real-time object detection and geo-coordinate resolution |
+| **Security** | Secure REST endpoints and verified citizen reporting |
+| **Impact** | Streamlines municipal maintenance and civic governance |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/civic-issue-detector) |
+
+### Engineering Perspective
+
+Demonstrates a full-stack product approach by integrating **real-time YOLO object detection with a React frontend and Node.js backend**, transforming citizen photos into actionable, geotagged work orders for municipal authorities.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>05 🛡️ LLM Jailbreak Threat Matrix</strong></summary>
+
+<br/>
+
+An adversarial AI security framework analyzing prompt injection vulnerabilities, alignment risks, and safety guardrails across frontier language models.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | LLM Security · Red Teaming · Prompt Engineering |
+| **Scale** | Threat matrix covering diverse attack vectors |
+| **Performance** | Automated adversarial perturbation testing |
+| **Security** | Model safety verification and alignment auditing |
+| **Impact** | Identifies defense vectors against malicious prompt exploitation |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/llm-jailbreak-threat-matrix) |
+
+### Engineering Perspective
+
+Explores **adversarial robustness in generative AI systems**, systematically testing how semantic framing, encoding tricks, and multi-turn jailbreaks bypass alignment filters, providing empirical data for constructing stronger LLM guardrails.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>06 ⚡ MERN Task Management System</strong></summary>
+
+<br/>
+
+An enterprise-ready task management platform featuring role-based access control (Admin & Employee portals), real-time task lifecycle tracking, and JWT-authenticated APIs.
+
+| Dimension | Details |
+| --- | --- |
+| **Stack** | React · Node.js · Express · MongoDB · JWT |
+| **Scale** | Multi-role organizational productivity platform |
+| **Performance** | Optimized MongoDB queries and lightweight state management |
+| **Security** | Role-based authorization and encrypted session handling |
+| **Impact** | Streamlines enterprise project workflows and accountability |
+| **Repository** | [View on GitHub](https://github.com/adityakollapudi/Task_manager) |
+
+### Engineering Perspective
+
+Highlights modern **full-stack architecture principles**: modular MVC structure on Express, robust data schema modeling in Mongoose, secure JWT token rotation, and a responsive component hierarchy in React.
+
+</details>
+
+---
+
+## Experience & Education
+
+### AI / ML Developer & Researcher
+
+**Current Focus**
+
+**Professional Scope**
+
+Engineering across **Artificial Intelligence, Deep Learning, Medical Diagnostics, and Full-Stack Web Development**.
+
+* Design and train deep learning architectures for medical image classification and computer vision.
+* Build full-stack web applications integrating machine learning models with modern REST APIs.
+* Investigate generative AI applications, agentic workflows, and LLM adversarial safety matrices.
+* Develop automated pipelines for data preprocessing, model evaluation, and inference optimization.
+* Work with Python, PyTorch, React, Node.js, and MongoDB across development ecosystems.
+* Focus on model accuracy, system maintainability, security, and real-world utility.
+
+**Skills:** `Python` `PyTorch` `Deep Learning` `Computer Vision` `CNN` `React` `Node.js` `Express` `MongoDB` `AI Safety`
+
+---
+
+### Computer Science & Engineering Scholar
+
+**Academic & Engineering Foundation**
+
+* Rigorous study of software engineering principles, operating systems, and computer architecture.
+* Practicing data structures, algorithms, and computational problem-solving.
+* Building multidisciplinary portfolio projects combining AI, computer vision, and cloud platforms.
+
+**Skills:** `Data Structures & Algorithms` `Python` `Java` `C/C++` `DBMS` `Web Engineering`
+
+---
+
+## Achievements
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adityakollapudi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-</a>
-<a href="mailto:adityakollapudi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adityakollapudi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aditya"/>
-</a>
-<a href="https://github.com/adityakollapudi">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20@adityakollapudi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
+| Recognition | Details |
+| :---: | --- |
+| **18+ GitHub Repositories** | Diverse technical portfolio spanning AI, deep learning, computer vision, and full-stack systems |
+| **Medical Imaging Portfolio** | Practical deep-learning diagnostic pipelines for CT scans, MRI brain scans, and pneumonia detection |
+| **Cross-Domain Engineering** | Seamless integration of machine learning backends with responsive MERN full-stack architectures |
+| **AI Safety & Threat Modeling** | Exploratory research into LLM adversarial vulnerabilities and prompt injection guardrails |
 
-<br/><br/>
+</div>
 
-### `LEARN  //  BUILD  //  INNOVATE`
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:312e81,60:7c3aed,85:2563eb,100:06b6d4&height=120&section=footer" alt="Footer Banner"/>
+<div align="center">
+
+### `Build intelligent systems. Engineer with rigor. Innovate what matters.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
