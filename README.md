@@ -80,8 +80,8 @@
 <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://komarev.com/ghpvc/?username=adityakollapudi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS">
-<img src="https://komarev.com/ghpvc/?username=adityakollapudi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/adityakollapudi">
+<img src="https://api.visitorbadge.io/api/visitors?path=adityakollapudi.adityakollapudi&label=PROFILE%20VIEWS&labelColor=%230A101F&countColor=%237C3AED&style=for-the-badge" alt="Profile Views" />
 </a>
 </div>
 
